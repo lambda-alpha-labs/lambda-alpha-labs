@@ -1,16 +1,16 @@
-## Hi there 👋
+# Lambda Alpha Labs
 
-<!--
-**lambda-alpha-labs/lambda-alpha-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lambda Alpha Labs builds trust infrastructure for AI-native software engineering.
 
-Here are some ideas to get you started:
+Our flagship product is **Graphenium**, the trust and verification layer for AI-generated code changes. Graphenium maps real codebases so coding agents can plan changes, inspect blast radius, and verify edits before they land.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Graphenium
+
+- **Graphenium Core**: open-source local repository intelligence engine
+- **Graphenium Gate**: PR and CI verification for AI-generated code changes
+- **Graphenium Enterprise**: policy, auditability, and verification workflows across repositories
+
+## Start here
+
+- [Graphenium repository](https://github.com/lambda-alpha-labs/Graphenium)
+- [Website](https://graphenium.dev)
