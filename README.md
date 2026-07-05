@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.png" alt="Graphenium Banner" width="100%">
+</p>
+
 # Lambda Alpha Labs
 
 Lambda Alpha Labs builds trust infrastructure for AI-native software engineering.
