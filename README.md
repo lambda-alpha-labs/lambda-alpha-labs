@@ -12,5 +12,7 @@ Our flagship product is **Graphenium**, the trust and verification layer for AI-
 
 ### Start here
 
-[![GitHub Repo](https://shields.io)](https://github.com)
-[![Website](https://shields.io)](https://graphenium.dev)
+| Resource | Access Link | Description |
+| :--- | :--- | :--- |
+| 🖥️ **Core Engine** | [Graphenium Repository](https://github.com) | Open-source local repository intelligence engine |
+| 🌐 **Production Hub** | [graphenium.dev Website](https://graphenium.dev) | Official landing page, documentation, and product tiers |
