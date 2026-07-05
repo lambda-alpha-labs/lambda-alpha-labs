@@ -16,5 +16,5 @@ Our flagship product is **Graphenium**, the trust and verification layer for AI-
 
 | Resource | Access Link | Description |
 | :--- | :--- | :--- |
-| 🖥️ **Core Engine** | [Graphenium Repository](https://github.com) | Open-source local repository intelligence engine |
+| 🖥️ **Core Engine** | [Graphenium Repository](https://github.com/lambda-alpha-labs/Graphenium) | Open-source local repository intelligence engine |
 | 🌐 **Production Hub** | [graphenium.dev Website](https://graphenium.dev) | Official landing page, documentation, and product tiers |
