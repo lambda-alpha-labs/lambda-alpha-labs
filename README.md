@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/assets/banner.png" alt="Graphenium Banner" width="100%">
+  <img src="https://githubusercontent.com" alt="Graphenium Banner" width="100%">
 </p>
 
 # Lambda Alpha Labs
