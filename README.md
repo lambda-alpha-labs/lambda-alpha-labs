@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/lambda-alpha-labs/Graphenium/raw/main/assets/banner.png?raw=true" alt="Graphenium Banner" width="100%">
+  <img src="https://github.com/lambda-alpha-labs/lambda-alpha-labs/raw/main/assets/banner.png?raw=true" alt="Graphenium Banner" width="100%">
 </p>
 
 Lambda Alpha Labs develops external engineering governance and pre-flight containment tools for AI-assisted software development [README.md].
