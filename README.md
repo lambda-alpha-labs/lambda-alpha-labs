@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Graphenium Banner" width="100%">
+  <img src="https://github.com/lambda-alpha-labs/Graphenium/raw/main/assets/banner.png?raw=true" alt="Graphenium Banner" width="100%">
 </p>
 
-Lambda Alpha Labs builds trust infrastructure for AI-native software engineering.
+Lambda Alpha Labs develops external engineering governance and pre-flight containment tools for AI-assisted software development [README.md].
 
-Our flagship product is **Graphenium**, the trust and verification layer for AI-generated code changes. Graphenium maps real codebases so coding agents can plan changes, inspect blast radius, and verify edits before they land.
+Our flagship project is **Graphenium**, a local, pre-flight linter and external architecture gate for AI assistants (such as Claude Code, Cursor, Aider, and Grok) [README.md]. Graphenium analyzes virtual AST design plans to mechanically block code changes that violate module boundaries, bypass service layers, or introduce architectural drift before they are committed [README.md].
 
-## Graphenium
+## Graphenium Ecosystem
 
-- **Graphenium Core**: open-source local repository intelligence engine
-- **Graphenium Gate**: PR and CI verification for AI-generated code changes
-- **Graphenium Enterprise**: policy, auditability, and verification workflows across repositories
+- **Graphenium Core**: Open-source, local-first AST linter and pre-flight policy solver [README.md].
+- **Graphenium Gate**: Automated pre-commit and CI/CD containment gating to block structural decay [docs/CI_AND_GOVERNANCE.md, docs/MCP_TOOLS.md].
+- **Graphenium Enterprise**: Centralized system-design governance, cross-repository policy compliance, and structural audit workflows [docs/POSITIONING.md].
 
-### Start here
+### Start Here
 
 | Resource | Access Link | Description |
 | :--- | :--- | :--- |
-| 🖥️ **Core Engine** | [Graphenium Repository](https://github.com/lambda-alpha-labs/Graphenium) | Open-source local repository intelligence engine |
-| 🌐 **Production Hub** | [graphenium.dev Website](https://graphenium.dev) | Official landing page, documentation, and product tiers |
+| 🖥️ **Core Engine** | [Graphenium Repository](https://github.com/lambda-alpha-labs/Graphenium) | Open-source, local-first pre-flight linter and architecture gate [README.md] |
+| 🌐 **Production Hub** | [graphenium.dev Website](https://graphenium.dev) | Official landing page, documentation, and enterprise licensing [docs/POSITIONING.md] |
