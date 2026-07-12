@@ -4,7 +4,7 @@
 
 Lambda Alpha Labs develops external engineering governance and pre-flight containment tools for AI-assisted software development [README.md].
 
-Our flagship project is **Graphenium**, a local, pre-flight linter and external architecture gate for AI assistants (such as Claude Code, Cursor, Aider, and Grok) [README.md]. Graphenium analyzes virtual AST design plans to mechanically block code changes that violate module boundaries, bypass service layers, or introduce architectural drift before they are committed [README.md].
+Our flagship project is **Graphenium**, a local, pre-flight linter and external architecture gate for AI assistants (such as Claude Code, Cursor, Codex, and Grok) [README.md]. Graphenium analyzes virtual AST design plans to mechanically block code changes that violate module boundaries, bypass service layers, or introduce architectural drift before they are committed [README.md].
 
 ## Graphenium Ecosystem
 
