@@ -6,7 +6,7 @@
 
 **Lambda Alpha Labs** builds compiler-grade structural verification and external governance infrastructure for AI-assisted software engineering.
 
-Our flagship system is **[Graphenium (`gm`)](https://github.com/lambda-alpha-labs/Graphenium)** — the local relational codebase compiler and spec-driven containment engine for AI coding agents (Claude Code, Cursor, Codex, Grok, Aider).
+Our flagship system is **[Graphenium (`gm`)](https://github.com/lambda-alpha-labs/Graphenium)** — the local relational codebase compiler and spec-driven containment engine for AI coding agents (Claude Code, Cursor, Codex, Grok, OpenCode).
 
 Compilers verify syntax. Type checkers verify local types. Test runners verify runtime outputs. **Graphenium is Layer 4 of the verification stack**: it compiles polyglot repositories (Rust, Python, Go, TypeScript, JavaScript, Java, C, C++, C#, and Lean 4) into a provenance-tagged relational index (`EXTRACTED`, `INFERRED`, `AMBIGUOUS`), giving agents sub-50ms structural intelligence while mechanically blocking layering bypasses, Louvain modularity decay ($\Delta Q$), proof-gap taint, and post-edit scope creep.
 
