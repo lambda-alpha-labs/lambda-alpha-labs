@@ -24,7 +24,7 @@ Compilers verify syntax. Type checkers verify local types. Test runners verify r
 
 ## The Graphenium Ecosystem
 
-* **[Graphenium Core](https://github.com/lambda-alpha-labs/Graphenium)** *(Open Source · MIT)* — Local-first relational codebase compiler, embedded Datalog & Louvain $\Delta Q$ solver, and 24-tool MCP server (`gm`). Runs 100% offline with zero API keys required.
+* **[Graphenium Core](https://github.com/lambda-alpha-labs/Graphenium)** *(Open Source · MIT)* — Local-first relational codebase compiler, embedded Datalog & Louvain $\Delta Q$ solver, and 12-tool MCP server (`gm`). Runs 100% offline with zero API keys required.
 * **[Graphenium Gate](https://graphenium.dev/#gate)** *(Commercial CI/CD Layer)* — Automated pull-request and CI containment gating: pre-flight policy proofs, per-PR modularity delta ($\Delta Q$) audits, scope-creep blocking, and risk-sorted verification plans.
 * **[Graphenium Enterprise](https://graphenium.dev)** *(Control Plane)* — Organization-wide architectural governance, cross-repository blast-radius registries, centralized policy consoles, SSO/RBAC, and self-hosted deployment.
 
